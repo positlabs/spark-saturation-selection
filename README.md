@@ -2,9 +2,9 @@
 
 How to make a mask based on saturation levels.
 
-[Tutorial on YouTube]()
+[Tutorial on YouTube](https://www.youtube.com/watch?v=1NdmVlWsxcU)
 
-[![screenshot](./screenshot.jpg)]()
+[![screenshot](./screenshot.jpg)](https://www.youtube.com/watch?v=1NdmVlWsxcU)
 
 
 ## Resources
